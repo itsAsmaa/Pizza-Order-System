@@ -1,4 +1,4 @@
-# Pizza Order System
+# Pizza Order System 🍕
 
 ## Project Overview
 
