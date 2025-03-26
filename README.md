@@ -69,5 +69,5 @@ This is the main class where the program is executed. It creates a list of pizza
 4. **Reports**: The program generates a report for each pizza order, displaying customer details, pizza size, toppings, charges, and the final price.
 5. **Total Price**: The program calculates and prints the total price of all orders combined.
 
-## Example Output
+
 
